@@ -21,7 +21,6 @@ def scrape_all():
     }
 
     browser.quit()
-    print(data)
     return data
 
 def mars_news(browser):
